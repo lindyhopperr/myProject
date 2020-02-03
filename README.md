@@ -2,6 +2,8 @@ Kodları uygulamanın çalıştırılabilmesi için;
 
 1-Kodları lokale indirdikten sonra 
   maven clean install
+  
+  
 2- Oluşan jar'ı ise aşağıdaki komut ile çalıtırmanız yeterli olucaktır.
   java -jar target/demo-0.0.1-SNAPSHOT.jar
   
